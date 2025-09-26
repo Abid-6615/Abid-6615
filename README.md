@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abid Sultan Nishan.</h1>
-<h3 align="center">A passionate Full-stack Java web developer from Bangladesh⁂.</h3>
+<h3 align="center">Learning Full-stack Java web developer from Bangladesh⁂.</h3>
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
