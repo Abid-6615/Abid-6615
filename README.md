@@ -1,42 +1,52 @@
-<h1 align="center">Hi 👋, I'm Abid Sultan Nishan.</h1>
-<h3 align="center">Aspiring AI/ML Engineer & Full-stack Developer from Bangladesh ⁂</h3>
+<h1 align="center">Hi 👋, I'm Abid Sultan Nishan</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Aspiring+AI+%2F+ML+Engineer;Full-stack+Java+Developer;Problem+Solver+&amp;+Tech+Enthusiast" alt="Typing SVG" />
+</p>
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4ZzZueXF4ZzZueXF4ZzZueXF4ZzZueXF4ZzZueXF4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
-</div>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abid-6615&label=Profile%20views&color=0e75b6&style=flat" alt="abid-6615" /> </p>
+### 🚀 About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abid-6615&theme=onedark" alt="abid-6615" /></a> </p>
+I am a passionate **Computer Science student** from Bangladesh, transitioning from Full-stack Java development into the world of **Artificial Intelligence and Machine Learning**. I thrive on experimenting with new algorithms and building data-driven solutions.
 
-- 🤖 I’m currently diving deep into **Artificial Intelligence & Machine Learning**
-- 🌱 Learning **Python, Data Science, and Neural Networks**
-- 🤝 I’m looking for help with **Mathematics for ML & Deep Learning architectures**
-- 💬 Ask me about **Java, Web Technologies, and my journey into AI**
-- 📫 How to reach me: **ariyanabid9999@gmail.com**
-- ⚡ Fun fact: **I believe AI is the ultimate tool for "experimenting to do something new every day."**
+- 🧠 **Currently focused on:** Deep Learning, Neural Networks, and Data Analysis.
+- 🛠️ **Strong Foundation:** Java, JavaScript, and Web Technologies.
+- 🌱 **Learning:** Python, TensorFlow, and advanced Calculus for ML.
+- 📫 **Contact:** [ariyanabid9999@gmail.com](mailto:ariyanabid9999@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🛠️ Tech Stack & Tools
+
 <p align="left">
-  <a href="mailto:ariyanabid9999@gmail.com">Email Me</a> • <span>01974106615</span>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abid-6615&show_icons=true&locale=en&layout=compact&theme=dark" alt="abid-6615" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abid-6615&show_icons=true&locale=en&theme=dark" alt="abid-6615" />
-</div>
+---
 
-<h3 align="left">Learning Progress:</h3>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=abid-6615&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abid-6615&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abid-6615&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abid-6615&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abid-6615&label=PROFILE+VIEWS&color=2196F3&style=flat-square" alt="Views" />
+</p>
