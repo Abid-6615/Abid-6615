@@ -1,97 +1,100 @@
-<h1 align="center">I'm Abid Sultan Nishan</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF00CC&center=true&vCenter=true&width=600&lines=Aspiring+ML+Researcher;Computer+Vision+Trainee;Deep+Learning+Enthusiast;Python+Developer" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Decoding%20Neural%20Pathways&fontSize=35&animation=twinkling&fontAlignY=50" />
-</p>
-
----
-
-### 🚀 Launch Sequence: Initiating AI Journey
-
-<p align="center">
-<a href="mailto:ariyanabid9999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
-</p>
-
----
-
-### 🧠 Profile: Abid Sultan Nishan
-
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIybTVjOW9tOTJ3OXF3Zjh4OTZqMnd3bTVnOGZybGtqOGV4bDJ2MGgmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+
+<img src="https://capsule-render.vercel.app/render?type=kashida&color=00d2ff&height=250&section=header&text=Abid%20Sultan%20Nishan&fontSize=80&animation=fadeIn&fontAlignY=40&desc=AI%20%2F%20Machine%20Learning%20Engineer&descSize=25&descAlignY=65" width="100%" />
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Future+with+AI;Transforming+Data+into+Intelligence;Deep+Learning+%26+Neural+Networks;Expert+in+LLMs+%26+RAG+Systems" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+<a href="https://linkedin.com/in/yourusername" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="mailto:yourname@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+<a href="https://twitter.com/yourusername" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" /></a>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px">
+
 </div>
 
-<p align="center">
-I'm a passionate **Computer Science & Engineering (CSE)** student from Bangladesh, deeply fascinated by the transformative power of Artificial Intelligence. Currently navigating the vast landscape of Machine Learning, with a specific focus on **Computer Vision (CV)** and **Deep Learning (DL)**. My journey involves transitioning from traditional software engineering to crafting data-driven solutions using Python. I'm actively building ML models, exploring research, and always eager to learn more about this dynamic field. Let's explore the future of AI together!
-</p>
-
-- 🎓 **Currently Studying:** B.Sc. in Computer Science & Engineering.
-- 🔭 **Focus Areas:** Computer Vision, Reinforcement Learning, Neural Networks.
-- ⚡ **Projects:** Implementing object detection and predictive models.
-- 🛠️ **Transition:** Shifting from Java/web development to Python and DL frameworks.
-- 🤝 **Collaboration:** Interested in open-source AI projects and research.
-
----
-
-### 🛠️ The Learner's Arsenal
-
-<table align="center" width="100%">
+## 🌌 Professional Overview
+<table border="0">
   <tr>
-    <th align="center">Core AI/ML</th>
-    <th align="center">Languages & Tools</th>
-    <th align="center">Data & Cloud</th>
-    <th align="center">Workspace & Workflow</th>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,numpy,sklearn&perline=3" alt="Core AI Stack" />
+    <td width="60%">
+      <p>I am <b>Abid Sultan Nishan</b>, an AI/ML Architect focused on building production-grade intelligence. I specialize in designing neural architectures that don't just work in notebooks, but scale in the cloud.</p>
+      <p>🧠 <b>Core Focus:</b> Generative AI, Computer Vision, and Predictive Analytics.</p>
+      <p>🚀 <b>Mission:</b> To bridge the gap between human intuition and machine logic.</p>
     </td>
-    <td align="center" width="25%">
-      <img src="https://skillicons.dev/icons?i=java,cpp,c,js,html,css&perline=3" alt="Dev Languages" />
-    </td>
-    <td align="center" width="25%">
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,linux,bash&perline=2" alt="Data & Ops" />
-    </td>
-    <td align="center" width="25%">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&perline=3" alt="Workflow Tools" />
+    <td width="40%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndXIzYm14bmR4M3JqZzZ4eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📈 Activity Matrix (GitHub Stats)
+## 🛠️ The Tech Stack (UI/UX Grid)
 
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=abid-6615&theme=react-dark&area=true&hide_border=true&height=300" alt="Activity Graph" />
+### 🤖 Artificial Intelligence
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
 </p>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abid-6615&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Main Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abid-6615&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5" alt="Language Stats" />
-</div>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abid-6615&theme=tokyonight&hide_border=true&mode=daily&ring=FF00CC" alt="Streak Graph" />
+### 💻 Languages & Deployment
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
 ---
 
-### 📬 Deep Connection
+## 📈 Real-time Analytics & Impact
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&custom_title=Abid's%20AI%20Contributions" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=algolia" />
+</div>
 
-<p align="center">Let's learn and build together! Drop me a message.</p>
+<br/>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=algolia&hide_border=true" width="100%" />
+</div>
+
+---
+
+## 🏆 Featured ML Solutions
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-repo-1&theme=algolia" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-repo-2&theme=algolia" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌙 Weekly Activity Tracker
 <p align="center">
-<a href="mailto:ariyanabid9999@gmail.com"><img src="https://img.shields.io/badge/Connect via Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Let's Network on LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abid-6615&label=Training+Sessions+Logged&color=FF00CC&style=plastic" alt="Views" />
-</p>
+---
+
+## 🤝 Let's Innovate Together
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <p><i>The snake above is eating my daily contributions!</i></p>
+  
+  **Abid Sultan Nishan** | 📍 Based in Earth | 🛠️ Open for Collaboration
+</div>
